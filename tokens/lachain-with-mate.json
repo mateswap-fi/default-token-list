@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Mate",
+    "address": "0000000000000000000",
+    "symbol": "MATE",
+    "decimals": 18,
+    "chainId": 274,
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/00000000000000000000/logo.png"
+  },
+  {
+    "name": "Yerba",
+    "address": "111111111111111111111",
+    "symbol": "XMATE",
+    "decimals": 18,
+    "chainId": 274,
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/111111111111111111111/logo.png"
+  },
+  {
+    "name": "Wrapped Lac",
+    "address": "0x2911a1AB18546cb501628Be8625C7503a2A7DB54",
+    "symbol": "WLAC",
+    "decimals": 18,
+    "chainId": 274,
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x2911a1AB18546cb501628Be8625C7503a2A7DB54/logo.png"
+  },
+  {
+    "name": "Criptodolar",
+    "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "symbol": "UXD",
+    "decimals": 18,
+    "chainId": 274,
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png"
+  }
+]

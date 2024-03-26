@@ -1,14 +1,14 @@
-# @boneswapfi/default-token-list
+# @mateswap-fi/default-token-list
 
-This NPM module and GitHub repo contains the default token list used in the BoneSwap interface.
+This NPM module and GitHub repo contains the default token list used in the MateSwap interface.
 
 ## Adding a token
 
 To request that we add a token to the list:
   + Open PR adding your token to the list (git clone, yarn install)
-  + [Add PR](https://github.com/boneswap-fi/assets) with corresponding logo in under the correct blockchain folder
+  + [Add PR](https://github.com/mateswap-fi/assets) with corresponding logo in under the correct blockchain folder
 
-You must have at least 100 Doge of liquidity on BoneSwap to get added to the default list.
+You must have at least 100 Doge of liquidity on MateSwap to get added to the default list.
 
 ### Disclaimer
 

@@ -1,12 +1,12 @@
 const { version } = require("../package.json");
 
-const dogechain = require("../tokens/dogechain.json");
-const dogechainTestnet = require("../tokens/dogechain-testnet.json");
+const lachain = require("../tokens/lachain.json");
+const lachainTestnet = require("../tokens/lachain-testnet.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "BoneSwap Menu",
+    name: "MateSwap Menu",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -15,11 +15,11 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/boneswap-fi/art/master/bone/logo-256x256.png",
-    keywords: ["boneswap", "default"],
+      "https://raw.githubusercontent.com/mateswap-fi/art/master/mate/logo-256x256.png",
+    keywords: ["mateswap", "default"],
     tokens: [
-      ...dogechain,
-      ...dogechainTestnet,
+      ...lachain,
+      ...lachainTestnet,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

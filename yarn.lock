@@ -23,9 +23,9 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@boneswapfi/sdk@^0.0.24":
+"@mateswap-fi/sdk@^0.0.24":
   version "0.0.24"
-  resolved "https://registry.yarnpkg.com/@boneswapfi/sdk/-/sdk-0.0.24.tgz#8470750f58bf9053b36edcdc57e4fff20938492e"
+  resolved "https://registry.yarnpkg.com/@mateswap-fi/sdk/-/sdk-0.0.24.tgz#8470750f58bf9053b36edcdc57e4fff20938492e"
   integrity sha512-VN+DDTfSieF3OLrcVrAA0hIJOZVEJiCRl7oCy58nFX6FYxJNvCWLQ5hm/HWffuxfK7rjuzGTFIg4dYdWm3LlgQ==
   dependencies:
     big.js "^6.1.0"

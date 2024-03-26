@@ -4,15 +4,15 @@ const { Octokit } = require("@octokit/rest");
 
 const octokit = new Octokit();
 
-const { ChainId } = require("@boneswapfi/sdk");
+const { ChainId } = require("@matewap-fi/sdk");
 
 const fs = require("fs");
 
 const { resolve } = require("path");
 
 const NAME = {
-  [ChainId.DOGECHAIN]: "dogechain",
-  [ChainId.DOGECHAIN_TESTNET]: "dogechain_testnet",
+  [ChainId.LACHAIN]: "lachain",
+  [ChainId.LACHAIN_TESTNET]: "lachain_testnet",
 };
 
 (async () => {
@@ -28,10 +28,10 @@ const NAME = {
 
       const tokens = require(path);
 
-      // Grab file file names of the boneswap-fi/icons repo at the token path
+      // Grab file file names of the mateswap-fi/icons repo at the token path
       // we can use this to see if our default list is missing icons
       const { data } = await octokit.rest.repos.getContent({
-        owner: "boneswapfi",
+        owner: "matewap-fi",
         repo: "icons",
         path: "token",
       });
@@ -63,9 +63,9 @@ const NAME = {
         }
 
         // Check if logoURI has correct path
-        if (!token.logoURI.includes("boneswap-fi/icons")) {
+        if (!token.logoURI.includes("mateswap-fi/icons")) {
           // TODO: Automate this part...
-          const logoURI = `https://raw.githubusercontent.com/boneswap-fi/icons/master/token/${icon}.jpg`;
+          const logoURI = `https://raw.githubusercontent.com/mateswap-fi/icons/master/token/${icon}.jpg`;
 
           console.log(`Update Logo URI for ${token.symbol} with ${logoURI}`);
         } else {

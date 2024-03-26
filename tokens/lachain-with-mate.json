@@ -25,10 +25,18 @@
   },
   {
     "name": "Criptodolar",
+<<<<<<< HEAD
     "address": "0xDe09E74d4888Bc4e65F589e8c13Bce9F71DdF4c7",
     "symbol": "UXD",
     "decimals": 18,
     "chainId": 274,
     "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0xDe09E74d4888Bc4e65F589e8c13Bce9F71DdF4c7/logo.png"
+=======
+    "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "symbol": "UXD",
+    "decimals": 18,
+    "chainId": 274,
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png"
+>>>>>>> d434fcc0cc9e16f117dc5e71b57287fc51a0a889
   }
 ]

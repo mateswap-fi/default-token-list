@@ -1,19 +1,19 @@
 [
   {
     "name": "Mate",
-    "address": "0000000000000000000",
+    "address": "0x10b9be5482e9a16efbd04be723e6452423fad6fc",
     "symbol": "MATE",
     "decimals": 18,
     "chainId": 274,
-    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/00000000000000000000/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x10b9be5482e9a16efbd04be723e6452423fad6fc/logo.png"
   },
   {
     "name": "Yerba",
-    "address": "111111111111111111111",
+    "address": "0x09762030148180BB2309364aB8F793443cf09823",
     "symbol": "XMATE",
     "decimals": 18,
     "chainId": 274,
-    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/111111111111111111111/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x09762030148180BB2309364aB8F793443cf09823/logo.png"
   },
   {
     "name": "Wrapped Lac",

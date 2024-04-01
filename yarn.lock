@@ -23,19 +23,6 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@mateswap-fi/sdk@^0.0.24":
-  version "0.0.24"
-  resolved "https://registry.yarnpkg.com/@mateswap-fi/sdk/-/sdk-0.0.24.tgz#8470750f58bf9053b36edcdc57e4fff20938492e"
-  integrity sha512-VN+DDTfSieF3OLrcVrAA0hIJOZVEJiCRl7oCy58nFX6FYxJNvCWLQ5hm/HWffuxfK7rjuzGTFIg4dYdWm3LlgQ==
-  dependencies:
-    big.js "^6.1.0"
-    decimal.js-light "^2.5.0"
-    isomorphic-unfetch "^3.1.0"
-    jsbi "^3.1.0"
-    tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.3"
-    toformat "^2.0.0"
-
 "@commitlint/cli@^13.2.1":
   version "13.2.1"
   resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-13.2.1.tgz#80ebd46beef6ceed3bb0c0842bcda8d02a3c91de"
@@ -270,6 +257,19 @@
     "@ethersproject/bytes" "^5.6.1"
     "@ethersproject/constants" "^5.6.1"
     "@ethersproject/logger" "^5.6.0"
+
+"@mateswapfi/sdk@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@mateswapfi/sdk/-/sdk-0.0.2.tgz#a4623ae40e75f8f80175bc07a874fdb052ea25cb"
+  integrity sha512-OJa8lQNdiGV81e2EC8J1JieZY8Yn68eoOfycKpdGmynhOzhNmFdbVzPiFDb1nj1VNDC0CdasWtL7sgBW+gA8VA==
+  dependencies:
+    big.js "^6.1.0"
+    decimal.js-light "^2.5.0"
+    isomorphic-unfetch "^3.1.0"
+    jsbi "^3.1.0"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
 
 "@octokit/auth-token@^2.4.4":
   version "2.5.0"

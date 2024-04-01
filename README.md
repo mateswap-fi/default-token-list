@@ -8,7 +8,7 @@ To request that we add a token to the list:
   + Open PR adding your token to the list (git clone, yarn install).
   + [Add PR](https://github.com/mateswap-fi/assets) with corresponding logo in under the correct blockchain folder.
 
-You must have at least 100 Doge of liquidity on MateSwap to get added to the default list.
+You must have at least 100 LAC of liquidity on MateSwap to get added to the default list.
 
 ### Disclaimer
 

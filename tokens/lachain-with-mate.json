@@ -5,7 +5,7 @@
     "symbol": "MATE",
     "decimals": 18,
     "chainId": 274,
-    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x10b9be5482e9a16efbd04be723e6452423fad6fc/mate.png"
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x10b9be5482e9a16efbd04be723e6452423fad6fc/logo.png"
   },
   {
     "name": "Yerba",
@@ -13,7 +13,7 @@
     "symbol": "XMATE",
     "decimals": 18,
     "chainId": 274,
-    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x09762030148180BB2309364aB8F793443cf09823/xmate.png"
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x09762030148180BB2309364aB8F793443cf09823/logo.png"
   },
   {
     "name": "Wrapped Lac",
@@ -21,7 +21,7 @@
     "symbol": "WLAC",
     "decimals": 18,
     "chainId": 274,
-    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x2911a1AB18546cb501628Be8625C7503a2A7DB54/lacoin.png"
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x2911a1AB18546cb501628Be8625C7503a2A7DB54/logo.png"
   },
   {
     "name": "Criptodolar",
@@ -29,6 +29,6 @@
     "symbol": "UXD",
     "decimals": 18,
     "chainId": 274,
-    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0xDe09E74d4888Bc4e65F589e8c13Bce9F71DdF4c7/uxd.png"
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0xDe09E74d4888Bc4e65F589e8c13Bce9F71DdF4c7/logo.png"
   }
 ]

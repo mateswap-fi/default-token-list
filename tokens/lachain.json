@@ -5,7 +5,7 @@
     "symbol": "WLAC",
     "decimals": 18,
     "chainId": 274,
-    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x2911a1AB18546cb501628Be8625C7503a2A7DB54/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x2911a1AB18546cb501628Be8625C7503a2A7DB54/lacoin.png"
   },
   {
     "name": "Criptodolar",
@@ -13,6 +13,6 @@
     "symbol": "UXD",
     "decimals": 18,
     "chainId": 274,
-    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0xDe09E74d4888Bc4e65F589e8c13Bce9F71DdF4c7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0xDe09E74d4888Bc4e65F589e8c13Bce9F71DdF4c7/uxd.png"
   }
 ]

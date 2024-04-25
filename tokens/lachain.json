@@ -30,5 +30,29 @@
     "decimals": 18,
     "chainId": 274,
     "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0xDe09E74d4888Bc4e65F589e8c13Bce9F71DdF4c7/logo.png"
+  },
+  {
+    "name": "USDT",
+    "address": "0x7dC8b9e3B083C26C68f0B124cA923AaEc7FBee39",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 274,
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x7dC8b9e3B083C26C68f0B124cA923AaEc7FBee39/logo.png"
+  },
+  {
+    "name": "WETH",
+    "address": "0x42C8C9C0f0A98720dACdaeaC0C319cb272b00d7E",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 274,
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x42C8C9C0f0A98720dACdaeaC0C319cb272b00d7E/logo.png"
+  },
+  {
+    "name": "USDC",
+    "address": "0x51115241c7b8361EeE88D8610f71d0A92cee5323",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 274,
+    "logoURI": "https://raw.githubusercontent.com/mateswap-fi/assets/master/blockchains/lachain/assets/0x51115241c7b8361EeE88D8610f71d0A92cee5323/logo.png"
   }
 ]
